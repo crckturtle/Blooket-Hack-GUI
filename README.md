@@ -4,7 +4,7 @@ This was made after a directory of my old blooket hacks was made obsolete and I 
 In the future I will make my own adaptation of the new blooket exploit systems made and updated by Minesraft4.
 However at the moment this directory is a reposting of Minesraft4s blooket exploits.
 
-# Useage
+# Usage
 
 1. Join a blooket game
 2. Once you are in the character select screen, open "inspect element"
