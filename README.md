@@ -1,8 +1,6 @@
 # Info
 
-This was made after a directory of my old blooket hacks was made obsolete and I was unable to continue updating it. I had made my own adaptations of exploits from Glizxxy and Minesraft2 (now Minesraft4).
-In the future I will make my own adaptation of the new blooket exploit systems made and updated by Minesraft4.
-However at the moment this directory is a reposting of Minesraft4s blooket exploits.
+These scripts arent mine
 
 # Usage
 
