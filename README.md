@@ -1,6 +1,10 @@
 # Info
 
-These scripts arent mine
+These scripts aren't mine
+
+# Disclaimer
+
+Unless you want to get banned do not use this in online games. The anti cheat will ban you. Either sign out or only use it in private games.
 
 # Usage
 
